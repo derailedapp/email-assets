@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Aileron";
+    src: url("https://github.com/derailedapp/email-assets/raw/refs/heads/master/Aileron-Regular.otf") format("otf");
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Aileron";
+    src: url("https://github.com/derailedapp/email-assets/raw/refs/heads/master/Aileron-Black.otf") format("otf");
+    font-weight: 900;
+    font-style: normal;
+}
